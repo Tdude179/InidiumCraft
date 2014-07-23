@@ -1,6 +1,7 @@
 package com.tdude.inidiumcraft;
 
 import com.tdude.inidiumcraft.handler.ConfigHandler;
+import com.tdude.inidiumcraft.init.ModItems;
 import com.tdude.inidiumcraft.proxy.IProxy;
 import com.tdude.inidiumcraft.reference.Reference;
 import com.tdude.inidiumcraft.utility.LogHelper;
@@ -25,6 +26,8 @@ public class Inidiumcraft {
     public void preInit(FMLPreInitializationEvent event){
         ConfigHandler.init(event.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new ConfigHandler());
+        ModItems.init();
+        LogHelper.info("Items Loaded!");
     }
 
     @Mod.EventHandler

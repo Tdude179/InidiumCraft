@@ -1,11 +1,31 @@
-[05:48:40] [main/INFO]: Setting user: ForgeDevName
-[05:48:42] [Client thread/INFO]: LWJGL Version: 2.9.1
-[05:48:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:InidiumCraft
-[05:48:52] [Sound Library Loader/INFO]: Sound engine started
-[05:48:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[05:48:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[05:48:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:InidiumCraft
-[05:48:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[05:48:59] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[05:49:00] [Sound Library Loader/INFO]: Sound engine started
-[05:49:08] [Client thread/INFO]: Stopping!
+[07:23:03] [main/INFO]: Setting user: ForgeDevName
+[07:23:06] [Client thread/INFO]: LWJGL Version: 2.9.1
+[07:23:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:inidiumcraft
+[07:23:18] [Sound Library Loader/INFO]: Sound engine started
+[07:23:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[07:23:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[07:23:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:inidiumcraft
+[07:23:25] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[07:23:26] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[07:23:27] [Sound Library Loader/INFO]: Sound engine started
+[07:23:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[07:23:36] [Server thread/INFO]: Generating keypair
+[07:23:37] [Server thread/INFO]: Preparing start region for level 0
+[07:23:38] [Server thread/INFO]: Preparing spawn area: 35%
+[07:23:40] [Server thread/INFO]: ForgeDevName[local:E:04a3a53c] logged in with entity id 127 at (760.5389696859522, 4.0, 1039.3853494662765)
+[07:23:40] [Server thread/INFO]: ForgeDevName joined the game
+[07:24:14] [Server thread/INFO]: Saving and pausing game...
+[07:24:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[07:24:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[07:24:14] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[07:24:38] [Server thread/INFO]: Saving and pausing game...
+[07:24:38] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[07:24:38] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[07:24:38] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[07:24:39] [Server thread/INFO]: Stopping server
+[07:24:39] [Server thread/INFO]: Saving players
+[07:24:39] [Server thread/INFO]: Saving worlds
+[07:24:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[07:24:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[07:24:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[07:24:39] [Client thread/INFO]: Stopping!
