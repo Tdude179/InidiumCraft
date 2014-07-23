@@ -183,6 +183,14 @@
       </item>
     </group>
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="tande_000">
+      <words>
+        <w>inidium</w>
+        <w>inidiumcraft</w>
+      </words>
+    </dictionary>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InidiumCraft.iml" filepath="$PROJECT_DIR$/InidiumCraft.iml" />

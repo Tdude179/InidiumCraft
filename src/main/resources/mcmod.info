@@ -1,0 +1,16 @@
+[
+{
+  "modid": "InidiumCraft",
+  "name": "InidiumCraft",
+  "description": "A basic test mod",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/Tdude179/InidiumCraft",
+  "updateUrl": "",
+  "authorList": ["Tdude179"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
